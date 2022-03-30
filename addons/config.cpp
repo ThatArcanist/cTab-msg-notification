@@ -3,14 +3,11 @@ class CfgPatches
 	class cTab_MSG_Notifications
 	{
 		addonRootClass=""
-		units[]={};
-		weapons[]={};
-		requiredVersion=1.88;
 		requiredAddons[]={};
 		author="Arcanist";
-		version="0.1.1.2";
-		versionStr="0.1.1.2";
-		versionAr[]={0,1,1,2};
+		version="1.0.0";
+		versionStr="1.0.0";
+		versionAr[]={1,0,0};
 	};
 };
 
